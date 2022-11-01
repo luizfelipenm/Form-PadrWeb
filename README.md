@@ -1,7 +1,8 @@
 # Form-PadrWeb
 Formulário
 Luiz Felipe N. Mota   Curso: GTI
-Hudson Daniel Porto de Moura
-Luiz Otávio Calixto de Souza
-Diego de Queiroz Amaral
-Daniel Figueredo Rodrigues
+<br>
+Hudson Daniel Porto de Moura (SI)
+Luiz Otávio Calixto de Souza (GTI)
+Diego de Queiroz Amaral (GTI)
+Daniel Figueredo Rodrigues (SI)
