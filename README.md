@@ -1,7 +1,7 @@
 # Form-PadrWeb
 Formulário
 <br>
-Luiz Felipe N. Mota   Curso: GTI
+Luiz Felipe N. Mota (GTI)
 <br>
 Hudson Daniel Porto de Moura (SI)
 <br>
